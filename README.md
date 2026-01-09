@@ -1,5 +1,5 @@
 
-<p align="center">  <img width="800" height="800" alt="me" src="https://github.com/user-attachments/assets/09182663-0928-4817-a08f-af6fa3df729d" /> </p>
+<p align="center">  <img width="700" height="800" alt="me" src="https://github.com/user-attachments/assets/09182663-0928-4817-a08f-af6fa3df729d" /> </p>
 
 ‎ <p align="center">
 [<img align="center" alt="alt_text" width="220px" src="https://github.com/user-attachments/assets/297b5647-6c89-4d9a-a8aa-3a9f7af14350" />](https://gourmand.atabook.org/)
