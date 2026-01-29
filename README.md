@@ -1,8 +1,11 @@
-**<p align="center"> $${\color{orange}Animal\ fact\ of\ the\ day.}$$**</p> </br>
+**<p align="center"> $${\color{red}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/okjokr.jpg" />
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/p08h7b.jpg" />
 </br> </br>
-</br>Naked mole-rat (Heterocephalus glaber) can live up to 35 years, is unable to develop cancer and is also immune to certain types of pain! <br/>
+</br>Wumble (Wumble) is oh my god what si that???wtf this looks unironically disgusting. It is the only mammal to fly, also it can carry up to thousands of children in it's "empreg" stomach.
+<br/>
+<sub>the bird i traced wumble over is fluffy backed tit babbler, check it out.</sub>
+<br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 <p align="center">  <img width="700" height="800" alt="me" src="https://github.com/user-attachments/assets/09182663-0928-4817-a08f-af6fa3df729d" /> </p>
