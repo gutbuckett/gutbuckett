@@ -1,10 +1,10 @@
-**<p align="center"> $${\color{red}Animal\ fact\ of\ the\ day.}$$**</p> </br>
+**<p align="center"> $${\color{green}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/p08h7b.jpg" />
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/1x7trw.jpg" />
 </br> </br>
-</br>Wumble (Wumble) is oh my god what si that???wtf this looks unironically disgusting. It is the only mammal to fly, also it can carry up to thousands of children in it's "empreg" stomach.
+</br>The Narwhal's (Monodon monoceros) horn is not actually a horn, but a comically long tooth (AKA tusk). On rare ocassions narwhals can have two of them!
 <br/>
-<sub>the bird i traced wumble over is fluffy backed tit babbler, check it out.</sub>
+<sub></sub>
 <br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
