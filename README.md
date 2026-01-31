@@ -1,8 +1,8 @@
-**<p align="center"> $${\color{green}Animal\ fact\ of\ the\ day.}$$**</p> </br>
+**<p align="center"> $${\color{purple}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/1x7trw.jpg" />
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/srz8zp.jpg" />
 </br> </br>
-</br>The Narwhal's (Monodon monoceros) horn is not actually a horn, but a comically long tooth (AKA tusk). On rare ocassions narwhals can have two of them!
+</br>Llamas (Lama glama) are sometimes used in managing/herding livestock such as sheep and other cattle, it's due to their spicy nature!
 <br/>
 <sub></sub>
 <br/>
