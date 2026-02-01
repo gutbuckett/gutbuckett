@@ -1,8 +1,8 @@
-**<p align="center"> $${\color{purple}Animal\ fact\ of\ the\ day.}$$**</p> </br>
+**<p align="center"> $${\color{yellow}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/srz8zp.jpg" />
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/7oq4np.jpeg" />
 </br> </br>
-</br>Llamas (Lama glama) are sometimes used in managing/herding livestock such as sheep and other cattle, it's due to their spicy nature!
+</br>Deer(Mostly fawns) are among the animals that cry the most apart from humans, they make lots of high-pitched crys when they are hungry, frightened or separated from their mothers.
 <br/>
 <sub></sub>
 <br/>
