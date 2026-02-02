@@ -1,10 +1,10 @@
 **<p align="center"> $${\color{yellow}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/7oq4np.jpeg" />
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/st6xcz.jpg" />
 </br> </br>
-</br>Deer(Mostly fawns) are among the animals that cry the most apart from humans, they make lots of high-pitched crys when they are hungry, frightened or separated from their mothers.
+</br>A group of crows is called a murder! It's because in old folk they were viewed as omen of death.
 <br/>
-<sub></sub>
+<sub>P.S. A group of elephants is called a memory :-)</sub>
 <br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
