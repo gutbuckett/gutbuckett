@@ -1,10 +1,10 @@
 **<p align="center"> $${\color{yellow}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/st6xcz.jpg" />
+
 </br> </br>
-</br>A group of crows is called a murder! It's because in old folk they were viewed as omen of death.
+</br> Whales are closely related to pigs. (No image for today)
 <br/>
-<sub>P.S. A group of elephants is called a memory :-)</sub>
+<sub>sory im revanping my links i will d beyter</sub>
 <br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
