@@ -1,8 +1,8 @@
 **<p align="center"> $${\color{yellow}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/6vp5op.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/3zx8d2.jpg"/>
 </br> </br>
-</br> Whales are closely related to pigs. 
+</br> In prides, female lions handle most of the hunting. 
 <br/>
 <sub>
 <br/>
