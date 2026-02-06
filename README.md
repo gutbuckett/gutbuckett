@@ -1,10 +1,10 @@
 **<p align="center"> $${\color{yellow}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/3zx8d2.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/o21ci9.jpeg"/>
 </br> </br>
-</br> In prides, female lions handle most of the hunting. 
+</br> Alligators have no definitive lifespan, which means they don't die from age! they will live until a disease, injury or exhaustion kills them.
 <br/>
-<sub>
+<sub>P.S. same goes for lobsters.<sub>
 <br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
