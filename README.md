@@ -1,10 +1,10 @@
 **<p align="center"> $${\color{yellow}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/o21ci9.jpeg"/>
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/xgrl5o.jpg"/>
 </br> </br>
-</br> Alligators have no definitive lifespan, which means they don't die from age! they will live until a disease, injury or exhaustion kills them.
+</br> Whale milk consists of 50% fat and has the same consistency as toothpaste!
 <br/>
-<sub>P.S. same goes for lobsters.<sub>
+<sub>P.S. sorry for putting whalw facts on here again.<sub>
 <br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
