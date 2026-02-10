@@ -1,10 +1,10 @@
 **<p align="center"> $${\color{yellow}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/xgrl5o.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/wn5lib.jpg"/>
 </br> </br>
-</br> Whale milk consists of 50% fat and has the same consistency as toothpaste!
+</br> Crabs and other crustaceans have teeth in their stomach, and its called a gastric mill!
 <br/>
-<sub>P.S. sorry for putting whalw facts on here again.<sub>
+<sub>P.S. SIGN MY ATA.<sub>
 <br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
