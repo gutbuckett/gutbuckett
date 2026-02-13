@@ -1,10 +1,10 @@
 **<p align="center"> $${\color{yellow}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/wn5lib.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/ii80zl.jpg"/>
 </br> </br>
-</br> Crabs and other crustaceans have teeth in their stomach, and its called a gastric mill!
+</br> Chickens recognize each other by their combs, and if they wore tiny hats they wouldn't know who is who!
 <br/>
-<sub>P.S. SIGN MY ATA.<sub>
+<sub>P.S. Slow updates because all the powerplants in my country are getting bombed, meaning i don't have electricity.<sub>
 <br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
