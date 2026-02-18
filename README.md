@@ -1,9 +1,8 @@
 **<p align="center"> $${\color{yellow}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/ii80zl.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/ushqv0.png"/>
 </br> </br>
-</br> Chickens recognize each other by their combs, and if they wore tiny hats they wouldn't know who is who!
-<br/>
+</br> Cat is the only domestic animal not mentioned in the Bible. 
 <sub>P.S. Slow updates because all the powerplants in my country are getting bombed, meaning i don't have electricity.<sub>
 <br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
