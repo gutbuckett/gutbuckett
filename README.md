@@ -1,9 +1,9 @@
 **<p align="center"> $${\color{yellow}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/ushqv0.png"/>
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/dqpfgq.jpg"/>
 </br> </br>
-</br> Cat is the only domestic animal not mentioned in the Bible. 
-<sub>P.S. Slow updates because all the powerplants in my country are getting bombed, meaning i don't have electricity.<sub>
+</br> Did you know? Cat is the only domestic animal not mentioned in the Bible. <sub>
+
 <br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
