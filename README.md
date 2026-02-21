@@ -1,8 +1,8 @@
 **<p align="center"> $${\color{yellow}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/dqpfgq.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/ul9pk5.jpeg"/>
 </br> </br>
-</br> Did you know? Cat is the only domestic animal not mentioned in the Bible. <sub>
+</br> Praying mantises have a single ear and its located in the middle of their abdomen. <sub>
 
 <br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
