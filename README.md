@@ -7,9 +7,9 @@
 <br/>
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
-<p align="center">  <img width="700" height="800" alt="me" src="https://github.com/user-attachments/assets/09182663-0928-4817-a08f-af6fa3df729d" /> </p>
+<p align="center">  <img width="400" height="550" alt="me" src="https://files.catbox.moe/m332qj.png" /> </p>
 
 ‎ <p align="center">
-[<img align="center" alt="alt_text" width="220px" src="https://github.com/user-attachments/assets/297b5647-6c89-4d9a-a8aa-3a9f7af14350" />](https://gourmand.atabook.org/)
-[<img align="center" alt="alt_text" width="220px" src="https://github.com/user-attachments/assets/9a4c4b93-4ff2-4530-8cc5-89d65b3031e9" />](https://rentry.co/outerexpanse_)
-[<img align="center" alt="alt_text" width="220px" src="https://github.com/user-attachments/assets/9dbc9106-1aa0-4557-a66f-f3ac78321e4f" />](https://pronouns.cc/@gourm4nd)
+[<img align="center" alt="alt_text" width="220px" src="https://files.catbox.moe/lwqgf9.png" />](https://gourmand.atabook.org/)
+[<img align="center" alt="alt_text" width="220px" src="https://files.catbox.moe/2eo1jm.png" />](https://rentry.co/outerexpanse_)
+[<img align="center" alt="alt_text" width="220px" src="https://files.catbox.moe/cde4x5.png" />](https://pronouns.cc/@gourm4nd)
