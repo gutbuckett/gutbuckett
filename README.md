@@ -1,12 +1,11 @@
 **<p align="center"> $${\color{#AE5E55}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/vgn3ab.webp"/>
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/4hqqrv.jpg"/>
 </br> </br>
-</br>This is really stupid but, houseflies hum in the key of F major.
-<sub>
+</br>Giraffes don't have vocal cords, the only sounds they emit are low-pitched grunts and snorts.
 
 <br/><br/><br/><br/>
-**<p align="center"> $${\color{#AE5E55}DNI\ unless\ i\ do\ at\ all\ times.}$$**</p> </br>
+**<p align="center"> $${\color{#AE5E55}bmf\ :3}$$**</p> </br>
 
 
 
