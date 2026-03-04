@@ -1,8 +1,8 @@
 **<p align="center"> $${\color{#AE5E55}Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/4hqqrv.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/5tnasc.jpg"/>
 </br> </br>
-</br>Giraffes don't have vocal cords, the only sounds they emit are low-pitched grunts and snorts.
+</br>Starfish are carnivorou, they also have no brains.
 
 <br/><br/><br/><br/>
 **<p align="center"> $${\color{#AE5E55}bmf\ :3}$$**</p> </br>
