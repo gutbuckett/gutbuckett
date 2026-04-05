@@ -1,11 +1,10 @@
-**<p align="center"> $${\color{#AE5E55}Animal\ fact\ of\ the\ day.}$$**</p> </br>
+**<p align="center"> $${\color{#AE5E55}(Not-so)\ Animal\ fact\ of\ the\ day.}$$**</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/5tnasc.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://files.catbox.moe/yneczy.jpg"/>
 </br> </br>
-</br>Starfish are carnivorou, they also have no brains.
-
+</br>The thing aɓove is really stupid. Most armadillo deaths are caused by their own fear response (or vehicle colissions). When they get scared/excited they jump 3 feet into the air before getting ran over by the opposite party.
 <br/><br/><br/><br/>
-**<p align="center"> $${\color{#AE5E55}bmf\ :3}$$**</p> </br>
+<p align="center"> $${\color{#AE5E55}bmf\ :3}$$</p> </br>
 
 
 
