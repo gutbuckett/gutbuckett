@@ -3,8 +3,7 @@
 <img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/WWGJvxGQ/Downpic-cc-2538609849.jpg"/>
 </br> </br>
 </br><p align="center">$\color{#98a583}{\textsf{octopi can open jarsTHIS IS A PLACEHOLDER}}$</p> </br>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 <p align="center">  <img width="300"  alt="me" src="https://i.ibb.co/01XDB9k/dfdfdfd2026vvvv0828.png" /> </p>
