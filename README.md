@@ -1,8 +1,9 @@
-<p align="center">$\color{#98a583}{\textsf{readme is a wip.}}$</p> </br>
+<p align="center">$\color{#98a583}{\textsf{Daily Animal Fact}}$</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/WWGJvxGQ/Downpic-cc-2538609849.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/XxD38SXV/Science-mantisshrimp-1061398692.png"/>
 </br> </br>
-</br><p align="center">$\color{#98a583}{\textsf{octopi can open jarsTHIS IS A PLACEHOLDER}}$</p> </br>
+</br><p align="center"> ${\textsf{\color{#98a583}Mantis shrimp have the most complex eyes on earth! :-)}}$ 
+<p align="center"> ${\textsf{\color{#98a583} While we only have 3 color receptors, they have 16, letting them see ultraviolet, infrared, and polarized light.}}$ 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
