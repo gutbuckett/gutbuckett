@@ -1,9 +1,9 @@
 <p align="center">$\color{#98a583}{\textsf{Daily Animal Fact}}$</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src=https://i.ibb.co/dst7V4Hg/Binturong-5.png"/>
+<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/xSV1mRqc/steptodown-com332414.jpg"/>
 </br> </br>
-</br><p align="center"> ${\textsf{\color{#98a583}Binturongs (also known as bearcats) smell like buttered popcorn.}}$ 
-<p align="center"> ${\textsf{\color{#98a583} aw aww aaawwwww!}}$ 
+</br><p align="center"> ${\textsf{\color{#98a583}Tarsiers are tiny primates whose eyes are larger and heavier than their entire brains.}}$ 
+<p align="center"> ${\textsf{\color{#98a583} oohh my god what is that💀sub5 animal}}$ 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
