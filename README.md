@@ -1,9 +1,9 @@
 <p align="center">$\color{#98a583}{\textsf{Daily Animal Fact}}$</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/xSV1mRqc/steptodown-com332414.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/xtQ5p7NH/steptodown-com481690.jpg"/>
 </br> </br>
-</br><p align="center"> ${\textsf{\color{#98a583}Tarsiers are tiny primates whose eyes are larger and heavier than their entire brains.}}$ 
-<p align="center"> ${\textsf{\color{#98a583} oohh my god what is that💀sub5 animal}}$ 
+</br><p align="center"> ${\textsf{\color{#98a583}Okapi is the closest (and only) living relative of the giraffe.}}$ 
+<p align="center"> ${\textsf{\color{#98a583} bleleueuegh :-)}}$ 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
