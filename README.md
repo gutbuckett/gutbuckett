@@ -1,9 +1,9 @@
 <p align="center">$\color{#98a583}{\textsf{Daily Animal Fact}}$</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/xtQ5p7NH/steptodown-com481690.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/VsXWmbd/Inland-Taipan-1200x800.jpg"/>
 </br> </br>
-</br><p align="center"> ${\textsf{\color{#98a583}Okapi is the closest (and only) living relative of the giraffe.}}$ 
-<p align="center"> ${\textsf{\color{#98a583} bleleueuegh :-)}}$ 
+</br><p align="center"> ${\textsf{\color{#98a583}The inland taipan is the most venomous snake ever!!!}}$ 
+<p align="center"> ${\textsf{\color{#98a583} ...A single bite contains enough venom to kill 100 (adult) humans.}}$ 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
