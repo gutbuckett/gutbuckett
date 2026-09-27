@@ -1,9 +1,9 @@
 <p align="center">$\color{#98a583}{\textsf{Daily Animal Fact}}$</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/VsXWmbd/Inland-Taipan-1200x800.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/nMm5VbBq/steptodown-com821580.png"/>
 </br> </br>
-</br><p align="center"> ${\textsf{\color{#98a583}The inland taipan is the most venomous snake ever!!!}}$ 
-<p align="center"> ${\textsf{\color{#98a583} ...A single bite contains enough venom to kill 100 (adult) humans.}}$ 
+</br><p align="center"> ${\textsf{\color{#98a583}Platypuses don't have a stomach}}$ 
+<p align="center"> ${\textsf{\color{#98a583} Their esophagus connects directly to their intestines.}}$ 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
