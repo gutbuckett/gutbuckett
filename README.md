@@ -1,9 +1,9 @@
 <p align="center">$\color{#98a583}{\textsf{Daily Animal Fact}}$</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/nMm5VbBq/steptodown-com821580.png"/>
+<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/v6hbGgLz/images.jpg"/>
 </br> </br>
-</br><p align="center"> ${\textsf{\color{#98a583}Platypuses don't have a stomach}}$ 
-<p align="center"> ${\textsf{\color{#98a583} Their esophagus connects directly to their intestines.}}$ 
+</br><p align="center"> ${\textsf{\color{#98a583}The entire species of mourning geckos consist of females!}}$ 
+<p align="center"> ${\textsf{\color{#98a583} They reproduce through parthenogenesis, as if in the unfertilized egg grows into a baby all by itself. }}$ 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
