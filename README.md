@@ -1,4 +1,10 @@
-
+<p align="center">$\color{#98a583}{\textsf{Daily Animal Fact}}$</p> </br>
+<p align="center">
+<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/G4qh2JtX/steptodown-com256786.jpg"/>
+</br> </br>
+</br><p align="center"> ${\textsf{\color{#98a583}Hummingbirds are the only birds capable of flying backwards.}}$ 
+<p align="center"> ${\textsf{\color{#98a583}starts smearing my poo everywhere*}}$ 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 <p align="center">  <img width="300"  alt="me" src="https://i.ibb.co/01XDB9k/dfdfdfd2026vvvv0828.png" /> </p>
