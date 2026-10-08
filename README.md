@@ -1,10 +1,9 @@
 <p align="center">$\color{#98a583}{\textsf{Daily Animal Fact}}$</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/B28D3wCv/steptodown-com475452.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/0yC8tLMb/steptodown-com519994.jpg"/>
 </br> </br>
-</br><p align="center"> ${\textsf{\color{#98a583}Hyenas are more closely related to cats than to dogs! :-)}}$ 
-<p align="center"> ${\textsf{\color{#98a583}they belong to the Hyaenidae family, which is part of the mammalian group Feliformia (AKA cat-like carnivorans)}}$ 
-<p align="center"> ${\textsf{\color{#98a583}...meanwhile dogs, wolves, bears and seals are in the other major branch, Caniformia (AKA dog-like carnivorans)}}$ 
+</br><p align="center"> ${\textsf{\color{#98a583}The wood frog can survive being frozen.}}$ 
+<p align="center"> ${\textsf{\color{#98a583}Its body produces huge amounts of glucose, which acts as a cryoprotectant.}}$ 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
