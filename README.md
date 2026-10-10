@@ -1,9 +1,8 @@
 <p align="center">$\color{#98a583}{\textsf{Daily Animal Fact}}$</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/0yC8tLMb/steptodown-com519994.jpg"/>
+<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/jkzZbwfP/kvquxnhwb6qf1.jpg" alt="kvquxnhwb6qf1"/>
 </br> </br>
-</br><p align="center"> ${\textsf{\color{#98a583}The wood frog can survive being frozen.}}$ 
-<p align="center"> ${\textsf{\color{#98a583}Its body produces huge amounts of glucose, which acts as a cryoprotectant.}}$ 
+</br><p align="center"> ${\textsf{\color{#98a583}not an animal fact but💀 holyyyyy chopped}}$ 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
