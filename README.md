@@ -3,6 +3,7 @@
 <img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/jkzZbwfP/kvquxnhwb6qf1.jpg" alt="kvquxnhwb6qf1"/>
 </br> </br>
 </br><p align="center"> ${\textsf{\color{#98a583}not an animal fact but💀 holyyyyy chopped}}$ 
+<p align="center"> ${\textsf{\color{#98a583}there is nothing remarkable about this thing i just felt like poking fun at it}}$ 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
