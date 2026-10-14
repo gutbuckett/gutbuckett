@@ -1,9 +1,9 @@
 <p align="center">$\color{#98a583}{\textsf{Daily Animal Fact}}$</p> </br>
 <p align="center">
-<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/jkzZbwfP/kvquxnhwb6qf1.jpg" alt="kvquxnhwb6qf1"/>
+<img align="center" alt="alt_text" width="325px" src="https://i.ibb.co/mrnkwDBq/steptodown-com681753.jpg"/>
 </br> </br>
-</br><p align="center"> ${\textsf{\color{#98a583}not an animal fact but💀 holyyyyy chopped}}$ 
-<p align="center"> ${\textsf{\color{#98a583}there is nothing remarkable about this thing i just felt like poking fun at it}}$ 
+</br><p align="center"> ${\textsf{\color{#98a583}Arapaimas breathe air! They have a modified swim bladder that works as a breathing organ. :-)}}$ 
+<p align="center"> ${\textsf{\color{#98a583}..They also can survive out of the water for up to a whole day.}}$ 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
